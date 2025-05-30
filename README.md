@@ -21,13 +21,4 @@ A lightweight Node.js and Express.js application that dynamically renders conten
 
 - Node.js
 - Express.js
-- EJS (Embedded JavaScript Templates)
-
-## 🚀 Getting Started
-
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/ejs-dynamic-app.git
-cd ejs-dynamic-app
-npm install
+- EJS

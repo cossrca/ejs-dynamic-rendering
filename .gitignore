@@ -18,9 +18,6 @@ pids/
 .env
 .env.*
 
-# Optional npm cache directory
-.npm/
-
 # VS Code settings
 .vscode/
 
@@ -34,9 +31,3 @@ coverage/
 # Build artifacts
 dist/
 build/
-
-# EJS temp or compiled output (if any)
-*.ejs~
-
-# Misc
-*.swp
